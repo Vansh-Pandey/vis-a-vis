@@ -1,0 +1,11 @@
+target/
+.env.local
+*.log
+.idea/
+.vscode/
+*.iml
+.DS_Store
+# never commit real member data
+legacy-data/
+*.sql.gz
+__pycache__/
